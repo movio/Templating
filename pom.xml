@@ -7,7 +7,7 @@
   </parent>
 
   <groupId>com.attask.jenkins</groupId>
-  <artifactId>Templating</artifactId>
+  <artifactId>@name</artifactId>
   <version>@plugin_version</version>
   <packaging>hpi</packaging>
 
